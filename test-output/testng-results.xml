@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-28T18:20:58 IST" name="Default suite" finished-at="2024-12-28T18:21:55 IST" duration-ms="57534">
+    <groups>
+    </groups>
+    <test started-at="2024-12-28T18:20:58 IST" name="Default test" finished-at="2024-12-28T18:21:55 IST" duration-ms="57534">
+      <class name="TestPackage.SastaTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestPackage.SastaTest@659499f1]" started-at="2024-12-28T18:20:58 IST" name="setUp" finished-at="2024-12-28T18:21:12 IST" duration-ms="14020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSasta()[pri:0, instance:TestPackage.SastaTest@659499f1]" started-at="2024-12-28T18:21:12 IST" name="testSasta" finished-at="2024-12-28T18:21:55 IST" duration-ms="43399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSasta -->
+      </class> <!-- TestPackage.SastaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
